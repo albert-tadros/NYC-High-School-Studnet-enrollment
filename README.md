@@ -1,15 +1,15 @@
 # NYC-High-School-Studnet-enrollment
 
 **Problem Statement**
-Overall, college enrollments in the U.S. declined by 4% during the year 2020 due to the pandemic. Given that high school education is just as important as college education, the goal of this analysis is to gain insights on effect of the pandemic on the NYC high school enrollment numbers during the first year of the pandemic (2020 and early 2021).
+Overall, college enrollments in the U.S. declined by 4% during the year 2020 due to the pandemic. Given that high school education is just as important as college education, the goal of this analysis is to gain insights on effect of the pandemic on the NYC public high school enrollment numbers during the first year of the pandemic (2020 and early 2021).
 
 **Guiding Research Questions**
 
-- Has high school enrollment fallen like college enrollment?
-- Do high school enrollments vary by student ethnicity and gender in 2020?
-- Do high school enrollments vary between student of different economic advantage in 2020?
-- What has been the trend of high school enrollment before the pandemic?
-- If an enrollment trend is recognized, why there is a change in the enrollment ?
+- Has public high school enrollment fallen like college enrollment?
+- Do public high school enrollments vary by student ethnicity and gender in 2020?
+- Do public high school enrollments vary between student of different economic advantage in 2020?
+- What has been the trend of public high school enrollment before the pandemic?
+- If an enrollment trend is recognized, can there be an explanation to change in the enrollment ?
 
 **Project Objective and Methodology**
 
